@@ -21,7 +21,7 @@ p+p{margin-top:14px}
 .btn-solid:hover{background:var(--slate);color:#fff}
 
 /* header */
-.site-header{position:fixed;inset:0 0 auto 0;z-index:50;background:var(--slate)}
+.site-header{position:fixed;inset:0 0 auto 0;z-index:60;background:var(--slate)}
 .header-in{display:flex;align-items:center;gap:28px;width:min(1240px,100% - 32px);margin:0 auto;height:78px}
 .logo img{height:64px;width:64px}
 .nav{display:flex;align-items:center;gap:30px;margin:0 auto}
